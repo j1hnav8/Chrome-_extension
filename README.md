@@ -111,3 +111,10 @@ const productiveSites = ["leetcode.com", "github.com", "w3schools.com"];
 | Backend   | Stores log data, processes stats          |
 | Dashboard | Visualizes reports & productivity         |
 | Database  | MongoDB stores timestamped logs           |
+
+# OUTPUT:
+![Image](https://github.com/user-attachments/assets/c14b6662-76ac-4365-9131-4ab295703471)
+
+![Image](https://github.com/user-attachments/assets/c6aee904-c5cd-4077-8072-4e0d44efce7f)
+
+![Image](https://github.com/user-attachments/assets/44bbf71d-b347-4ad3-86d6-eb7f0f6979a2)
